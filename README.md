@@ -59,10 +59,11 @@ Then you interactively use the API at: <https://worker.templates.do/api>
 
 Our [Drivly Open Philosophy](https://philosophy.do) has these key principles:
 
-### 1. [Build in Public]((https://philosophy.do#Build+in+Public)
-### 2. [Create Amazing Developer Experiences]((https://philosophy.do#Build+in+Public)
-### 3. [Everything Must Have an API]((https://philosophy.do#Build+in+Public)
-### 4. [Communicate through APIs not Meetings]((https://philosophy.do#Build+in+Public)
+1. [Build in Public](https://driv.ly/open/build-in-public)
+2. [Create Amazing Developer Experiences](https://driv.ly/open/amazing-developer-experiences)
+3. [Everything Must Have an API](https://driv.ly/open/everything-must-have-an-api)
+4. [Communicate through APIs not Meetings](https://driv.ly/open/communicate-through-apis-not-meetings)
+5. [APIs Should Do One Thing, and Do It Well](https://driv.ly/open/apis-do-one-thing)
 
 
 ###  🚀 We're Hiring!
