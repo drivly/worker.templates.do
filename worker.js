@@ -16,17 +16,8 @@ export const api = {
 }
 
 export const gettingStarted = [
-  ' _____  _____ ___  _________  _       ___   _____  _____  _____    ______  _____ ',
-  '|_   _||  ___||  \/  || ___ \| |     / _ \ |_   _||  ___|/  ___|   |  _  \|  _  |',
-  '  | |  | |__  | .  . || |_/ /| |    / /_\ \  | |  | |__  \ `--.    | | | || | | |',
-  '  | |  |  __| | |\/| ||  __/ | |    |  _  |  | |  |  __|  `--. \   | | | || | | |',
-  '  | |  | |___ | |  | || |    | |____| | | |  | |  | |___ /\__/ / _ | |/ / \ \_/ /',
-  '  \_/  \____/ \_|  |_/\_|    \_____/\_| |_/  \_/  \____/ \____/ (_)|___/   \___/ ',
-  '                                                                                 ',
-  '                                                                                 ',
-  'If you don\'t already have a JSON Viewer Browser Extension, get that first:',
-  '',
-  'https://pretty.json.fyi',
+  `If you don't already have a JSON Viewer Browser Extension, get that first:`,
+  `https://extensions.do`,
 ]
 
 export const examples = {
