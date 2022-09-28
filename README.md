@@ -25,17 +25,8 @@ Then you interactively use the API at: <https://worker.templates.do/api>
     "repo": "https://github.com/drivly/templates.do"
   },
   "gettingStarted": [
-    " _____  _____ ___  _________  _       ___   _____  _____  _____    ______  _____ ",
-    "|_   _||  ___||  /  || ___ | |     / _  |_   _||  ___|/  ___|   |  _  |  _  |",
-    "  | |  | |__  | .  . || |_/ /| |    / /_   | |  | |__   `--.    | | | || | | |",
-    "  | |  |  __| | |/| ||  __/ | |    |  _  |  | |  |  __|  `--.    | | | || | | |",
-    "  | |  | |___ | |  | || |    | |____| | | |  | |  | |___ /__/ / _ | |/ /  _/ /",
-    "  _/  ____/ _|  |_/_|    _____/_| |_/  _/  ____/ ____/ (_)|___/   ___/ ",
-    "                                                                                 ",
-    "                                                                                 ",
     "If you don't already have a JSON Viewer Browser Extension, get that first:",
-    "",
-    "https://pretty.json.fyi"
+    "https://extensions.do"
   ],
   "examples": {
     "listItems": "https://templates.do/worker"
@@ -54,24 +45,29 @@ Then you interactively use the API at: <https://worker.templates.do/api>
     "region": "California",
     "country": "United States",
     "continent": "North America",
-    "requestId": "751b397e7bc0e206-ORD",
-    "localTime": "9/28/2022, 1:49:14 AM",
+    "requestId": "751b42735f76e206-ORD",
+    "localTime": "9/28/2022, 1:55:20 AM",
     "timezone": "America/Los_Angeles",
     "edgeLocation": "Chicago",
     "edgeDistanceMiles": 1833,
-    "recentInteractions": 9
+    "recentInteractions": 10
   }
 }
 ```
 
-## [Drivly Open](https://driv.ly/open)
+## [Drivly Open](https://driv.ly/open) - Accelerating Innovation through Open Source
 
-### 🏎 Embrace Open Source
-[Driv.ly](https://driv.ly) offers simple unified APIs to buy and sell cars online, and we're funded by some of the [biggest names](https://twitter.com/TurnerNovak) in [automotive](https://fontinalis.com/team/#bill-ford) and [finance & insurance](https://www.detroit.vc)
+Our [Drivly Open Philosophy](https://philosophy.do) has these key principles:
 
-### 🏎 Automotive Commerce Infrastructure
-[Driv.ly](https://driv.ly) offers simple unified APIs to buy and sell cars online, and we're funded by some of the [biggest names](https://twitter.com/TurnerNovak) in [automotive](https://fontinalis.com/team/#bill-ford) and [finance & insurance](https://www.detroit.vc)
+### 1. [Build in Public]((https://philosophy.do#Build+in+Public)
+### 2. [Create Amazing Developer Experiences]((https://philosophy.do#Build+in+Public)
+### 3. [Everything Must Have an API]((https://philosophy.do#Build+in+Public)
+### 4. [Communicate through APIs not Meetings]((https://philosophy.do#Build+in+Public)
+
 
 ###  🚀 We're Hiring!
-Our entire infrastructure is built with Cloudflare Workers, Durable Objects, KV, PubSub, R2, Pages, etc.  If you love the Cloudflare Workers ecosystem as much as we do, we'd love to have you join our team!
+
+[Driv.ly](https://driv.ly) offers simple unified APIs to buy and sell cars online, and we're funded by some of the [biggest names](https://twitter.com/TurnerNovak) in [automotive](https://fontinalis.com/team/#bill-ford) and [finance & insurance](https://www.detroit.vc)
+
+Our entire infrastructure is built with [Cloudflare Workers](https://workers.do), [Durable Objects](https://durable.objects.do), [KV](https://kv.cf), [PubSub](https://pubsub.do), R2, Pages, etc.  If you love the [Cloudflare Workers ecosystem](https:// as much as we do, we'd love to have you join our team!
 
