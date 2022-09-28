@@ -70,5 +70,5 @@ Our [Drivly Open Philosophy](https://philosophy.do) has these key principles:
 
 [Driv.ly](https://driv.ly) offers simple unified APIs to buy and sell cars online, and we're funded by some of the [biggest names](https://twitter.com/TurnerNovak) in [automotive](https://fontinalis.com/team/#bill-ford) and [finance & insurance](https://www.detroit.vc)
 
-Our entire infrastructure is built with [Cloudflare Workers](https://workers.do), [Durable Objects](https://durable.objects.do), [KV](https://kv.cf), [PubSub](https://pubsub.do), R2, Pages, etc.  If you love the [Cloudflare Workers ecosystem](https:// as much as we do, we'd love to have you join our team!
+Our entire infrastructure is built with [Cloudflare Workers](https://workers.do), [Durable Objects](https://durable.objects.do), [KV](https://kv.cf), [PubSub](https://pubsub.do), R2, Pages, etc.  [If you love the Cloudflare Workers ecosystem as much as we do](https://driv.ly/loves/workers), we'd love to have you [join our team](https://careers.do/apply)!
 
