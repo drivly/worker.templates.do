@@ -66,7 +66,7 @@ Our [Drivly Open Philosophy](https://philosophy.do) has these key principles:
 5. [APIs Should Do One Thing, and Do It Well](https://driv.ly/open/apis-do-one-thing)
 
 
-###  🚀 We're Hiring!
+##  🚀 We're Hiring!
 
 [Driv.ly](https://driv.ly) is [deconstructing the monolithic physical dealership](https://blog.driv.ly/deconstructing-the-monolithic-physical-dealership) into [simple APIs to buy and sell cars online](https://driv.ly), and we're funded by some of the [biggest names](https://twitter.com/TurnerNovak) in [automotive](https://fontinalis.com/team/#bill-ford) and [finance & insurance](https://www.detroit.vc)
 
