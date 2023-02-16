@@ -38,8 +38,12 @@ export default {
 }
 
 const json = (obj, init) => {
-  init = init || {}
-  init.headers = init.headers || {}
+  if (!init) {
+    init = {}
+  }
+  if (!init.headers) {
+    init.headers = {}
+  }
   if (!init.headers['Content-Type'] && !init.headers['content-type']) {
     init.headers['Content-Type'] = 'application/json; charset=utf-8'
   }
