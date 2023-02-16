@@ -37,4 +37,11 @@ export default {
   }
 }
 
-const json = obj => new Response(JSON.stringify(obj, null, 2), { headers: { 'content-type': 'application/json; charset=utf-8' }})
+const json = (obj, init) => {
+  init = init || {}
+  init.headers = init.headers || {}
+  if (!init.headers['Content-Type'] && !init.headers['content-type']) {
+    init.headers['Content-Type'] = 'application/json; charset=utf-8'
+  }
+  return new Response(JSON.stringify(obj, null, 2), init)
+}
